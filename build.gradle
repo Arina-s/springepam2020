@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+group 'com.epam.spring2020'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    //testCompile group: 'junit', name: 'junit', version: '4.12'
+    //compile group: 'org.springframework', name: 'spring-context', version: '5.2.8.RELEASE'
+}
